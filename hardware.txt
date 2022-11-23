@@ -1,0 +1,35 @@
+﻿Riepilogo hardware:
+
+  Nome modello:	MacBook Pro
+  Identificatore modello:	MacBookPro11,1
+  Nome processore:	Intel Core i7 dual-core
+  Velocità processore:	2.7 GHz
+  Numero di processori:	1
+  Numero totale di Core:	2
+  Cache L2 (per Core):	256 KB
+  Cache L3:	4 MB
+  Tecnologia Hyper-Threading:	Abilitato
+  Memoria:	8 GB
+  Versione firmware di sistema:	433.120.6.0.0
+  Versione caricatore sistema operativo:	540.120.3~22
+  Versione SMC (sistema):	2.16f68
+
+Bluetooth BCM_4350C2
+
+Intel I218LM PCI Express Gigabit Ethernet:
+
+Intel HD Graphics 4400:
+
+  Modello Chipset:	Intel HD Graphics 4400
+  Tipo:	GPU
+  Bus:	Integrato
+  VRAM (dinamica, massima):	1536 MB
+  Fornitore:	Intel
+  ID dispositivo:	0x0412
+  ID revisione:	0x000b
+  Metal Family:	Supportato, Metal GPUFamily macOS 1
+
+4GB RAM
+
+
+
