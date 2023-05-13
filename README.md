@@ -1,8 +1,10 @@
 DUALBOOT
 Creare la cartelle EFI
+
 Creare la cartella OC in EFI
 
 Copiare la cartella Boot in EFI
+
 Copiare tutte le altre cartelle in OC
 
 
