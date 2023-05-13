@@ -1,4 +1,5 @@
 DUALBOOT
+
 Creare la cartelle EFI
 
 Creare la cartella OC in EFI
